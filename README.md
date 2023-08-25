@@ -26,7 +26,15 @@ The pothole filling process involves:
 4. The dispensing mechanism rotates 180 degrees, enabling pothole filling on both road sides.
 5. The worker closes the gravel mix output using the servo motor mechanism.
 
-## Conclusion
-Our collaborative pothole filling robot assists workers without replacing their roles. Its sturdy design, Raspberry Pi 4B microprocessor, and Smartelex motor driver ensure efficient operation on diverse terrains. The funnel-type storage and dispensing mechanism simplify gravel mix dispensing, while the rotation feature enhances flexibility in pothole filling.
+## Raspberry Pi Code
+Check out the [RpiCode.py](RpiCode.py) file for the Raspberry Pi code that controls the robot.
 
-Feel free to modify and enhance this Markdown format according to your preferences!
+## Robot Design
+Here's an image of the robot's design:
+
+![Robot Design](Roadbot4.jpeg)
+
+## Working Prototype
+Below is an image of the robot prototype:
+
+![Working Prototype](Roadbot2.jpeg)
