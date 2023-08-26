@@ -1,5 +1,9 @@
 # Pot-Hole-filling-robot
 
+![GitHub repo size](https://img.shields.io/github/repo-size/onkar69483/Pot-Hole-Filling-Robot)
+![GitHub stars](https://img.shields.io/github/stars/onkar69483/Pot-Hole-Filling-Robot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/onkar69483/Pot-Hole-Filling-Robot?style=social)
+
 ## Introduction
 Potholes are a significant issue faced by drivers worldwide, impacting both vehicles and pedestrians. Repairing potholes is time-consuming and labor-intensive. To address this, we've developed a pothole filling robot that aids workers in efficient repairs without replacing their jobs. This project was a collaborative effort by the members of Rotonity, the robotics club.
 
